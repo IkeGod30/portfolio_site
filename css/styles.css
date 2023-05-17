@@ -607,6 +607,11 @@ progress {
 .img-projects {
   height: 300px;
 }
+
+.project-url-anchor {
+  text-decoration: none;
+  color: inherit;
+}
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
