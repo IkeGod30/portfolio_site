@@ -11723,13 +11723,8 @@ section#contact form#contactForm :-ms-input-placeholder {
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
-/* For contact details text */
+/* For the marquee element in Zolimart project div */
 
-/* .contactLink {
-  color: white;
- 
-} */
-
-/* .contactLink a {
-  text-decoration: none;
-} */
+.news {
+  color: red;
+}
